@@ -19,3 +19,9 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.pair {
+  color: grey;
+  float: right;
+
+}
